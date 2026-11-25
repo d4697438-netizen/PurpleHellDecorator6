@@ -1,0 +1,11 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "purplehell.decorator",
+  "name": "Purple Hell Decorator",
+  "version": "1.0.0",
+  "developer": "PurpleHell",
+  "description": "Purple Hell decoration toolkit."
+}
